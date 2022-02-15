@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/css/main.df0a4f27.css",
+    "main.js": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/js/main.0ef70b5b.js",
+    "static/js/787.79b75036.chunk.js": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/js/787.79b75036.chunk.js",
+    "index.html": "/Lelyak-Andriy-goit-react-hw-02-phonebook/index.html",
+    "main.df0a4f27.css.map": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/css/main.df0a4f27.css.map",
+    "main.0ef70b5b.js.map": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/js/main.0ef70b5b.js.map",
+    "787.79b75036.chunk.js.map": "/Lelyak-Andriy-goit-react-hw-02-phonebook/static/js/787.79b75036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0a4f27.css",
+    "static/js/main.0ef70b5b.js"
+  ]
+}
